@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
+    title: 'CodeXplorer',
     author: 'Dan Abramov',
     description: 'Personal blog by Dan Abramov. I explain with words and code.',
     siteUrl: 'https://overreacted.io',
@@ -165,8 +165,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `CodeXplorer`,
+        short_name: `CodeXplorer`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,

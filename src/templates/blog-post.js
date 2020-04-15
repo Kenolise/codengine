@@ -211,7 +211,7 @@ class BlogPostTemplate extends React.Component {
               }}
               to={'/'}
             >
-              Overreacted
+              CodeXplorer
             </Link>
           </h3>
           <Bio />

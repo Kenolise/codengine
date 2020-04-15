@@ -12,12 +12,12 @@ class Footer extends React.Component {
         }}
       >
         <div style={{ float: 'right' }}>
-          <a href="/rss.xml" target="_blank" rel="noopener noreferrer">
+          <a href="/" target="_blank" rel="noopener noreferrer">
             rss
           </a>
         </div>
         <a
-          href="https://mobile.twitter.com/dan_abramov"
+          href="https://mobile.twitter.com/oyefesotunmise"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -25,7 +25,7 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://github.com/gaearon"
+          href="https://github.com/blac-panda"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -33,11 +33,11 @@ class Footer extends React.Component {
         </a>{' '}
         &bull;{' '}
         <a
-          href="https://stackoverflow.com/users/458193/dan-abramov"
+          href="https://wwww.linkedin.com/in/oluwatunmise-oyefeso"
           target="_blank"
           rel="noopener noreferrer"
         >
-          stack overflow
+          linkedin
         </a>
       </footer>
     );
