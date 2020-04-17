@@ -17,8 +17,8 @@ import {
   replaceAnchorLinksByLanguage,
 } from '../utils/i18n';
 
-const GITHUB_USERNAME = 'gaearon';
-const GITHUB_REPO_NAME = 'overreacted.io';
+const GITHUB_USERNAME = 'blac-panda';
+const GITHUB_REPO_NAME = 'codexplorer';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
@@ -136,9 +136,7 @@ class BlogPostTemplate extends React.Component {
       1,
       enSlug.length - 1
     )}/index${lang === 'en' ? '' : '.' + lang}.md`;
-    const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(
-      `https://overreacted.io${enSlug}`
-    )}`;
+    const discussUrl = `https://mobile.twitter.com/oyefesotunmise}`;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -195,7 +193,7 @@ class BlogPostTemplate extends React.Component {
               fontFamily: systemFont,
             }}
           >
-            <Signup cta={post.frontmatter.cta} />
+            {/* <Signup cta={post.frontmatter.cta} /> */}
           </div>
           <h3
             style={{
