@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: 'CodeXplorer',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    author: 'Oyefeso Oluwatunmise',
+    description: 'Personal blog by Oyefeso Oluwatunmise.',
+    siteUrl: 'https://codexplorer.me',
     social: {
       twitter: '@dan_abramov',
     },
