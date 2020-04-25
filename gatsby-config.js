@@ -5,7 +5,7 @@ module.exports = {
     description: 'Personal blog by Oyefeso Oluwatunmise.',
     siteUrl: 'https://codexplorer.me',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@oyefesotunmise',
     },
   },
   pathPrefix: '/',
@@ -126,7 +126,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's Overreacted Blog RSS Feed",
+            title: 'Blog RSS Feed',
           },
         ],
       },

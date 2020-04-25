@@ -2,7 +2,6 @@
 title: Do you like what you see?
 date: '2020-04-25'
 spoiler: How to create your own blog.
-cta: 'react'
 ---
 
 Hey there, do you like what you see? Looks great right?
@@ -78,6 +77,8 @@ Let's go on and edit links to the social media in `src/components/Footer.js`:
 * Twitter link - line 20
 * Github link - line 28
 * LinkedIn link - line 36
+
+To Edit site Metadata, go to gatsby-config.js
 
 Lastly, lets head over to `src/templates/blog-post.js`, edits to be made:
 
