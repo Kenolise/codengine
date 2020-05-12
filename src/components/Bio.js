@@ -13,7 +13,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Oyefeso Oluwatunmise`}
+          alt={`Kenose Osedeme`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -24,10 +24,7 @@ class Bio extends React.Component {
         />
         <p style={{ maxWidth: 310 }}>
           A blog by{' '}
-          <a href="https://mobile.twitter.com/oyefesotunmise">
-            Oyefeso Oluwatunmise
-          </a>
-          . Sharing the experiences of a CodeXplorer.
+          <a href="https://mobile.twitter.com/thekenose">Kenose Osedeme</a>
         </p>
       </div>
     );

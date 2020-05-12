@@ -1,7 +1,7 @@
 ---
-title: Do you like what you see?
-date: '2020-04-25'
-spoiler: How to create your own blog.
+title: My 100 Days of Code
+date: '2020-05-11'
+spoiler: Take a peep into my 100 days journey.
 ---
 
 Hey there, do you like what you see? Looks great right?

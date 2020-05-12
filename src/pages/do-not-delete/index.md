@@ -1,12 +1,10 @@
 ---
 title: Welcome to my blog
-date: '2020-04-16'
+date: '2020-05-12'
 spoiler: Blog Intro.
 ---
 
-Welcome to the CodeXplorer blog, where I'll be sharing all my coding experiences as I journey.
-Solutions to challenges I face and other noteworthy things.
+Welcome to the Codengine, a place where you'll get to view my creative works, and see mostly what technology I'm thinking of creating or actually building. I'm the best engine to drive you to creativity!
 
-Feel free to also check out my [portfolio site](https://blacpanda.herokuapp.com).
 
-This blog is maintained by [Oyefeso Oluwatunmise](https://www.twitter.com/oyefesotunmise).
+This blog is maintained by [Kenose Osedeme](https://twitter.com/thekenose).

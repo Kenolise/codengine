@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'CodeXplorer',
-    author: 'Oyefeso Oluwatunmise',
-    description: 'Personal blog by Oyefeso Oluwatunmise.',
+    title: 'Codengine',
+    author: 'Kenose Osedeme',
+    description: 'Personal blog by Kenose Osedeme.',
     siteUrl: 'https://codexplorer.me',
     social: {
-      twitter: '@oyefesotunmise',
+      twitter: 'https://twitter.com/thekenose',
     },
   },
   pathPrefix: '/',
@@ -165,8 +165,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `CodeXplorer`,
-        short_name: `CodeXplorer`,
+        name: `Codengine`,
+        short_name: `Codengine`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,

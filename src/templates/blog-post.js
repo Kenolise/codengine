@@ -17,7 +17,7 @@ import {
   replaceAnchorLinksByLanguage,
 } from '../utils/i18n';
 
-const GITHUB_USERNAME = 'blac-panda';
+const GITHUB_USERNAME = 'Kenolise';
 const GITHUB_REPO_NAME = 'codexplorer';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
@@ -136,7 +136,7 @@ class BlogPostTemplate extends React.Component {
       1,
       enSlug.length - 1
     )}/index${lang === 'en' ? '' : '.' + lang}.md`;
-    const discussUrl = `https://mobile.twitter.com/oyefesotunmise}`;
+    const discussUrl = `https://twitter.com/thekenose}`;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -209,7 +209,7 @@ class BlogPostTemplate extends React.Component {
               }}
               to={'/'}
             >
-              CodeXplorer
+              Codengine
             </Link>
           </h3>
           <Bio />
