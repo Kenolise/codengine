@@ -3,7 +3,7 @@ module.exports = {
     title: 'Codengine',
     author: 'Kenose Osedeme',
     description: 'Personal blog by Kenose Osedeme.',
-    siteUrl: 'https://codexplorer.me',
+    siteUrl: 'https://codengine.gq',
     social: {
       twitter: 'https://twitter.com/thekenose',
     },
