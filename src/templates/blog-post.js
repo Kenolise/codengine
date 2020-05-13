@@ -136,7 +136,7 @@ class BlogPostTemplate extends React.Component {
       1,
       enSlug.length - 1
     )}/index${lang === 'en' ? '' : '.' + lang}.md`;
-    const discussUrl = `https://twitter.com/thekenose}`;
+    const discussUrl = `https://twitter.com/thekenose`;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>

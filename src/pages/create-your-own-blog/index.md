@@ -1,10 +1,10 @@
 ---
-title: My 100 Days of Code
+title: How I created this Blog
 date: '2020-05-11'
-spoiler: Take a peep into my 100 days journey.
+spoiler: See how I did it.
 ---
 
-Hey there, do you like what you see? Looks great right?
+Hey there, do you like what you see? Looks great right? 
 
 I would be explaining how you caould crete a personal blog that looks just like this and deploy using Netlify.
 
@@ -134,3 +134,5 @@ NB: If you wish to purchase domain or add custom domain. Navigate to setting, th
 ![domain](./domain.JPG)
 
 ## Yay, you just deploy your blog, now go create great content !!!
+
+By [Oyefeso Tunmise](https://codexplorer.me)
