@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 May 2020 15:52:44 at https://Kens100days.netlify.app/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+KenKen
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ellies100days.netlify.app/index.html -O1 "C:\My Web Sites\Elliesweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 11 links scanned, 10 files written (281586 bytes overall) [69747 bytes received at 5812 bytes/sec], 282836 bytes transferred using HTTP compression in 11 files, ratio 22%, 2.7 requests per connection
+
+(No errors, 0 warnings, 0 messages)
+
