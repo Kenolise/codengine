@@ -37,12 +37,12 @@ My first interaction with this awesome tool was sometime last month during my #1
 The coolest part of it was the Language prediction function which is an application of NLP concerned with predicting text given preceding text. Auto suggest, autocomplete, and suggested replies are also common forms of this. Cool huh? wait till you see how I implemented it!😅(PS: guess the songs)
 
 * First Lyrics:
-![one](./12-5-20(2).PNG)
+![Pic one](./12-5-20(2).PNG)
 * Second Lyrics
-![two](./12-5-20(4).PNG)
+![Pic two](./12-5-20(4).PNG)
 
 * Here is the awkward text prediction😂
-![three](./12-5-20(3).PNG)
+![Pic nthree](./12-5-20(3).PNG)
 
 In conclusion, I hope you now have an idea of this great technology, if you’re new to it. It’s applications are endless. I’m currently working on a chat-bot for medical application on the side. Want to collaborate?
 Send me a DM here: [Twitter](https://twitter.com/thekenose).
