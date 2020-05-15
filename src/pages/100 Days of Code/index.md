@@ -1,7 +1,7 @@
 ---
 title: My 100 Days of Code
-date: '2020-05-14'
-spoiler: Take a peep into what it was like.
+date: '2020-05-12'
+spoiler: Take a peep into what it has been like.
 ---
 
 View some random projects during this period:

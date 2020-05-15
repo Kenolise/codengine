@@ -59,9 +59,17 @@ Run `yarn dev`, here's what a successful build looks like. To view it, check loc
 
 ![YArn dev result](./yardev.JPG)
 
+Did you get an error that looks like this?
+
+![error page](./error.PNG)
+
+Not to worry, try the following
+![error one](./1.PNG)  ![error two](./2.PNG) ![error three](./3.PNG) 
+
+
 ---
 
-## Yay! It works. Now lets personalize your blog
+## Okay! I'm hoping that works. Now lets personalize your blog
 
 ---
 
@@ -92,7 +100,7 @@ NB: You must have at least two post.
 
 Now run `yarn dev` to views changes made.
 
-![finals](./final.JPG)
+![finals](./final.png)
 
 ---
 
@@ -133,6 +141,6 @@ NB: If you wish to purchase domain or add custom domain. Navigate to setting, th
 
 ![domain](./domain.JPG)
 
-## Yay, you just deploy your blog, now go create great content !!!
+## Yay, you just deployed your blog, now go create great content !!!
 
-By [Oyefeso Tunmise](https://codexplorer.me)
+Tutorial aid: [CodeXplorer](https://twitter.com/oyefesotunmise). 
