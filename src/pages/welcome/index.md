@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog!
 date: '2020-05-10'
-spoiler: What the hell am I doing?.
+spoiler: What in the world am I doing?.
 ---
 
 Welcome to the Codengine. Technically, I'm the Codengine, and this is the place where I narrate which technology Intrigues me / Projects I'm working on. I'm basically the engine supposed to drive you to change your world!
