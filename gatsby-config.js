@@ -8,8 +8,18 @@ module.exports = {
       twitter: 'https://twitter.com/thekenose',
     },
   },
+
   pathPrefix: '/',
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-167690193-1',
+        // this option places the tracking script into the head of the DOM
+        head: true,
+        // other options
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -42,6 +52,7 @@ module.exports = {
           },
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
+          `gatsby-plugin-twitter`,
           {
             resolve: 'gatsby-remark-external-links',
             options: {
