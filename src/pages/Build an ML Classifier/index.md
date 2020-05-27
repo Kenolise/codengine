@@ -23,7 +23,7 @@ Our goal is to import the function `load_breast_cancer` from `sklearn.datasets`
 Then, load the data into a variable called `breast_cancer_data` and set it equal to the function `load_breast_cancer()`
 You should have this
 
-![first pic](./one.PNG)
+
 
 ---
 ## Next, an important question is what are we trying to classify? Let’s print both
