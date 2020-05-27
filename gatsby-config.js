@@ -20,6 +20,7 @@ module.exports = {
         // other options
       },
     },
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -52,7 +53,6 @@ module.exports = {
           },
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
-          `gatsby-plugin-twitter`,
           {
             resolve: 'gatsby-remark-external-links',
             options: {
